@@ -1,1 +1,0 @@
-let vbo : string = "pki";     
